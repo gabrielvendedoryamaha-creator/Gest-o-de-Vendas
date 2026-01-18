@@ -1,0 +1,5 @@
+{
+  "name": "Gestão de Vendas",
+  "description": "Um aplicativo intuitivo para vendedores cadastrarem e gerenciarem suas vendas com busca por CPF/Nome e suporte a modo escuro.",
+  "requestFramePermissions": []
+}
